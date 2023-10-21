@@ -14,7 +14,7 @@ namespace N5_NongSan_SENHOALUA.Controllers
             return View();
         }
 
-        public ActionResult DangNhap()
+        public ActionResult DangNhapKy()
         {
             return View();
         }

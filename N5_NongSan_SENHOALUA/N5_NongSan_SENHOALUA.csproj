@@ -186,6 +186,7 @@
     <Content Include="assets\images\header\icon\phone.png" />
     <Content Include="assets\images\header\icon\separator.png" />
     <Content Include="assets\images\logo\dark.png" />
+    <Content Include="assets\images\logo\google.png" />
     <Content Include="assets\images\megamenu\slider\1.jpg" />
     <Content Include="assets\images\megamenu\slider\2.jpg" />
     <Content Include="assets\images\payment\1.png" />
@@ -401,6 +402,7 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\script1.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -412,7 +414,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\NongSan\TrangChu.cshtml" />
     <Content Include="Views\Shared\LayoutNongSan.cshtml" />
-    <Content Include="Views\NongSan\DangNhap.cshtml" />
+    <Content Include="Views\NongSan\DangNhapKy.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
