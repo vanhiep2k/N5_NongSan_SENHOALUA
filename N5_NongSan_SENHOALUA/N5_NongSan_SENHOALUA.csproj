@@ -262,6 +262,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\bootstrap.rtl.css" />
     <Content Include="Content\bootstrap.rtl.min.css" />
+    <Content Include="Content\style1.css" />
     <Content Include="favicon.ico" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
@@ -411,6 +412,7 @@
     <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Views\NongSan\TrangChu.cshtml" />
     <Content Include="Views\Shared\LayoutNongSan.cshtml" />
+    <Content Include="Views\NongSan\DangNhap.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
